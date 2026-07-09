@@ -4,5 +4,3 @@ Full-stack developer based in Barcelona. Spent much of my career in PHP framewor
 
 - 🛠️ PHP (frameworks) · Python · JavaScript/React · Swift
 - 📫 Reach me at dzigor92@gmail.com
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dzigor92&show_icons=true&theme=default)
